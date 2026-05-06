@@ -1,7 +1,7 @@
 
 # Deep Generative Image Synthesis Pipeline 
 
-##🚀 Dual-Framework GAN Architecture
+## 🚀 Dual-Framework GAN Architecture
 
 An end-to-end deep learning pipeline featuring a custom Python web scraper for dataset creation, alongside PyTorch (Encoder-Decoder) and TensorFlow (DCGAN) models for image denoising and generation.
 
